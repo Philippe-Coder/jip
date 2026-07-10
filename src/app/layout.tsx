@@ -23,8 +23,9 @@ export const metadata: Metadata = {
     template: `%s | ${ORG.network}`,
   },
   description:
-    "Réseau d'ONG JIP, AEDI et CRAD : formation, insertion professionnelle et entrepreneuriat artisanal pour la jeunesse vulnérable au Togo depuis 1998.",
+    "Réseau d'ONG AEDI - JIP, avec CRAD : formation, insertion professionnelle et entrepreneuriat artisanal pour la jeunesse vulnérable au Togo depuis 1998.",
   keywords: [
+    "Réseau d'ONG AEDI - JIP",
     "JIP",
     "AEDI",
     "CRAD",

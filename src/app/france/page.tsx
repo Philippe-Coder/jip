@@ -5,7 +5,7 @@ import { FRANCE_MISSIONS, MANDATE, ORG } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Représentation en France",
   description:
-    "Mandat de représentation officielle du réseau d'ONG JIP, AEDI et CRAD sur le territoire français : mobilisation de ressources, partenariats et plaidoyer.",
+    "Mandat de représentation officielle du Réseau d'ONG AEDI - JIP sur le territoire français : mobilisation de ressources, partenariats et plaidoyer.",
 };
 
 export default function France() {

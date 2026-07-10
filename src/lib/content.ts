@@ -1,8 +1,8 @@
 export const ORG = {
-  network: "Réseau d'ONG JIP",
+  network: "Réseau d'ONG AEDI - JIP",
   fullName: "Jeunesse et Initiatives Privées",
   tagline: "Combattre la pauvreté par un développement humain durable",
-  members: "JIP · AEDI · CRAD",
+  members: "AEDI · JIP · CRAD",
   email: "assoaedi@yahoo.com",
   site: "www.ongjip.com",
   phones: ["(00228) 90 06 41 57", "(00228) 99 10 82 28"],

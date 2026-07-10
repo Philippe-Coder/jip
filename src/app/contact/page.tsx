@@ -6,7 +6,7 @@ import { ORG } from "@/lib/content";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Contacter le réseau d'ONG JIP, AEDI et CRAD à Lomé au Togo pour un partenariat, un financement ou une demande d'information.",
+    "Contacter le Réseau d'ONG AEDI - JIP à Lomé au Togo pour un partenariat, un financement ou une demande d'information.",
 };
 
 export default function Contact() {
